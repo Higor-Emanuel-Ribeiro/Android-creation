@@ -7,7 +7,7 @@ Technologies used to create the website 💡:
 - CSS3
 
 Site:
-https://higor-emanuel-ribeiro.github.io/android-creation/
+<a href= "https://higor-emanuel-ribeiro.github.io/android-creation/" target="_blank">Android creation</a>
 
 Some images from the website 📷:
 
